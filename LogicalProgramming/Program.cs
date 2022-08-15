@@ -22,6 +22,11 @@
                 case 3:
                     PerfectNumber perfectNumber = new PerfectNumber();
                     break;
+                case 4:
+                    FibonacciSeries fibonacciSeries = new FibonacciSeries();
+                    break;
+                case 5:
+
             }
 
         }
