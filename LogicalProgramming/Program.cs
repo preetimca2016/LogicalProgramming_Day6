@@ -26,6 +26,8 @@
                     FibonacciSeries fibonacciSeries = new FibonacciSeries();
                     break;
                 case 5:
+                    PrimeNumber primeNumber = new PrimeNumber();
+                    break;
 
             }
 
