@@ -28,7 +28,9 @@
                 case 5:
                     PrimeNumber primeNumber = new PrimeNumber();
                     break;
-
+                    case 6:
+                    CouponNumber coupon = new CouponNumber();
+                    break;
             }
 
         }
